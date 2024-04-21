@@ -2,6 +2,9 @@
 
 NextGenLenovoDiagnostics Portable is a portable version of the Lenovo Diagnostics tool, designed to diagnose hardware issues on Lenovo desktops, notebooks, and workstations. This portable version allows users to run Lenovo Diagnostics without the need for installation, making it convenient for troubleshooting hardware problems on-the-go or on systems where installation is not feasible.
 
+<imgsrc="https://github.com/whalelinguni/NextGenLenovoDiagnostics-Portable/blob/main/Lenovo01.png">
+<imgsrc="https://github.com/whalelinguni/NextGenLenovoDiagnostics-Portable/blob/main/Lenovo02.png">
+
 ## Information
 
 - **Tool Name:** NextGenLenovoDiagnostics Portable
