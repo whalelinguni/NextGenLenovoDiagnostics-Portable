@@ -17,8 +17,8 @@ NextGenLenovoDiagnostics Portable provides users with a convenient way to diagno
 
 To use NextGenLenovoDiagnostics Portable:
 
-1. Download the tool from the [Lenovo Diagnostics download page](https://support.lenovo.com/us/en/downloads/ds102688-lenovo-diagnostics-for-windows-10-64-bit-81-64-bit-8-64-bit-7-64-bit-2003-advanced-server-64-bit-and-2008-advanced-server-64-bit-desktops-notebooks-workstations).
-2. Extract the contents of the downloaded ZIP file to a folder of your choice.
+1. Download the tool.
+2. Run portable installer.
 3. Run the executable file to launch the diagnostic tool.
 4. Follow the on-screen instructions to perform hardware tests and diagnose any issues.
 
