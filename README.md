@@ -14,7 +14,10 @@ NextGenLenovoDiagnostics Portable is a portable version of the Lenovo Diagnostic
 - **Tool Name:** NextGenLenovoDiagnostics Portable
 - **Developer:** Lenovo
 - **Version:** 3.8.1
-- **Release Date:** 4-20
+- **Release Date:** 4-20 
+
+
+[<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHBoMDcyMG0wM2s4cXpkOWE1dmdhazllOGZiZGw5ejdwcTc1ZHA4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ol4b0CLt1EDio/giphy.webp" width="150"/>]
 
 ## Description
 
