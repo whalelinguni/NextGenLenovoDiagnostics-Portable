@@ -1,3 +1,6 @@
+i forgot to make this try to run elevated, if this message is here, I have not fixed that yet. so right click run as admin or what have you.
+i probably wont ever fix it to be honest.
+
 # NextGenLenovoDiagnostics Portable
 
 NextGenLenovoDiagnostics Portable is a portable version of the Lenovo Diagnostics tool, designed to diagnose hardware issues on Lenovo desktops, notebooks, and workstations. This portable version allows users to run Lenovo Diagnostics without the need for installation, making it convenient for troubleshooting hardware problems on-the-go or on systems where installation is not feasible.
